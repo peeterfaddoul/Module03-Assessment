@@ -1,0 +1,23 @@
+.specifique-article-homepage{
+
+    background-color: #D9D8D8;
+    width: 25%;
+    height: 400px;
+    margin-left: 50px;
+    
+}
+
+.AllArticles-homepage{
+    display: flex;
+}
+
+
+.specifique-article-homepage button{
+
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+
+}
